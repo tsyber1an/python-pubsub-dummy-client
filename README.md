@@ -17,7 +17,7 @@ Prerequisites
 TODO
 ----
 
-- [] figure out how Pubsub API can used without google SDK
-- [] draw initial structure
+- [ ] figure out how Pubsub API can used without google SDK
+- [ ] draw initial structure
 
 end of file;
